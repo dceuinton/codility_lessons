@@ -31,12 +31,12 @@ def run_solution(N):
 
 
 
-run_solution(1)
-run_solution(4)
-run_solution(5)
-run_solution(31)
-run_solution(33)
-run_solution(49)
-run_solution(61)
-run_solution(257)
-run_solution(244)
+# run_solution(1)
+# run_solution(4)
+# run_solution(5)
+# run_solution(31)
+# run_solution(33)
+# run_solution(49)
+# run_solution(61)
+# run_solution(257)
+# run_solution(244)
